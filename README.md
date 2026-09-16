@@ -1,16 +1,25 @@
 <div align="center">
 
-<h1>╱ <i>I'm Hossam Ahmed</i> ╲</h1>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 
-<h3>Data Scientist | Software Engineer</h3>
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Data Science Workspace" width="40%"/>
+
+<br><br>
+
+<h1>Hi 👋, I'm Hossam Ahmed</h1>
+
+<h3>Data Scientist | Turning Data into Smart, Actionable Insights</h3>
 
 <p>
-Turning Raw Data into Smart, Actionable Insights
+I'm a Software Engineer specialized in <b>Data Science</b>, passionate about
+data analysis, visualization, and machine learning.
 </p>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hossamahmed5248865&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=hossamahmed5248865\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,15 +27,15 @@ Turning Raw Data into Smart, Actionable Insights
 
 ## 🚀 About Me
 
-- 🎓 Data Science Student at **Menoufia National University**
-- 💻 Software Engineer specialized in **Data Science**
-- 🐍 Working mainly with **Python**
-- 📊 Interested in **Data Analysis & Data Visualization**
-- 🤖 Learning and building solutions using **Machine Learning**
-- 🗄️ Working with **SQL & Databases**
-- 🔍 Interested in extracting useful insights from raw and messy data
-- 📚 Currently improving my skills in **Data Science and Machine Learning**
-- 🎯 My goal is to build practical data-driven solutions that help businesses make smarter decisions
+* 🎓 Data Science Student at **Menoufia National University**
+* 💻 Specialized in **Data Science**
+* 🐍 Working mainly with **Python**
+* 📊 Interested in **Data Analysis & Data Visualization**
+* 🤖 Learning and building solutions using **Machine Learning**
+* 🗄️ Working with **SQL & Databases**
+* 🔍 Interested in extracting useful insights from raw and messy data
+* 📚 Currently improving my skills in **Data Science and Machine Learning**
+* 🎯 My goal is to build practical data-driven solutions that help businesses make smarter decisions
 
 ---
 
@@ -34,39 +43,39 @@ Turning Raw Data into Smart, Actionable Insights
 
 ### 👨‍💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 
 ### 📊 Data Science & Analysis
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat\&logo=matplotlib\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat\&logo=python\&logoColor=white)
 
 ### 🤖 Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
 
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Selection
-- Feature Engineering
-- Regression
-- Classification
-- Model Evaluation
-- Data Visualization
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Selection
+* Feature Engineering
+* Regression
+* Classification
+* Model Evaluation
+* Data Visualization
 
 ### 🗄️ Databases
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
 
 ### 📓 Development Tools
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
 ---
 
@@ -102,3 +111,131 @@ Machine Learning
 
 Database
  └── SQL
+```
+
+---
+
+## 📈 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Data Analysis
+
+I work with raw datasets to clean, explore, analyze, and extract meaningful insights.
+
+</td>
+
+<td width="50%">
+
+### 📉 Data Visualization
+
+I create clear visualizations to understand patterns, trends, and relationships in data.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning
+
+I build and evaluate machine learning models for classification and regression problems.
+
+</td>
+
+<td width="50%">
+
+### 🗄️ SQL & Data
+
+I use SQL to query, manipulate, and analyze structured data.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Currently Learning
+
+* 📊 Advanced Data Analysis
+* 🤖 Machine Learning
+* 🧠 Feature Engineering
+* 📈 Advanced Data Visualization
+* 🗄️ SQL & Database Management
+* 🚀 Building real-world Data Science projects
+
+---
+
+## 💻 My Data Science Workflow
+
+```text
+Raw Data
+    ↓
+Data Collection
+    ↓
+Data Cleaning
+    ↓
+Exploratory Data Analysis
+    ↓
+Data Visualization
+    ↓
+Feature Engineering
+    ↓
+Feature Selection
+    ↓
+Machine Learning
+    ↓
+Model Evaluation
+    ↓
+Insights & Predictions
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/hossamahmed5248865">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hossamahmed5248865&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamahmed5248865&layout=compact&theme=tokyonight&hide_border=true" width="40%">
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hossamahmed5248865&theme=tokyonight&hide_border=true" width="60%">
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hossam-ahmed19/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/hossamahmed5248865">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Turning Raw Data into Smart, Actionable Decisions.
+
+<br>
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
