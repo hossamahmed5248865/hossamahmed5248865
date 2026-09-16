@@ -19,7 +19,7 @@ data analysis, visualization, and machine learning.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HossamAhmed\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=hossamahmed5248865\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -168,52 +168,6 @@ I use SQL to query, manipulate, and analyze structured data.
 
 ---
 
-## 📂 Featured Projects
-
-### 🏠 House Price Prediction
-
-Machine Learning project focused on predicting house prices using data preprocessing, feature engineering, visualization, and regression models.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
-
----
-
-### ❤️ Health Prediction
-
-A machine learning project focused on predicting health-related outcomes using classification algorithms and model evaluation techniques.
-
-**Tech:** Python • Pandas • Scikit-learn • Matplotlib • Seaborn
-
----
-
-### 🎓 Data Analysis Projects
-
-Exploring real-world datasets through data cleaning, exploratory data analysis, visualization, and statistical insights.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/HossamAhmed">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HossamAhmed&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamAhmed&layout=compact&theme=tokyonight&hide_border=true" width="40%">
-
-</a>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HossamAhmed&theme=tokyonight&hide_border=true" width="60%">
-
-</div>
-
----
-
 ## 💻 My Data Science Workflow
 
 ```text
@@ -240,6 +194,26 @@ Insights & Predictions
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/hossamahmed5248865">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hossamahmed5248865&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamahmed5248865&layout=compact&theme=tokyonight&hide_border=true" width="40%">
+
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hossamahmed5248865&theme=tokyonight&hide_border=true" width="60%">
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -248,7 +222,7 @@ Insights & Predictions
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/HossamAhmed">
+<a href="https://github.com/hossamahmed5248865">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
