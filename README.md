@@ -1,16 +1,11 @@
 <div align="center">
 
-<img src="./assets/hossam-banner.png" alt="Hossam Ahmed - Data Scientist" width="100%"/>
+<h1>╱ <i>I'm Hossam Ahmed</i> ╲</h1>
 
-<br><br>
-
-<h1>Hi 👋, I'm Hossam Ahmed</h1>
-
-<h3>Data Scientist | Turning Data into Smart, Actionable Insights</h3>
+<h3>Data Scientist | Software Engineer</h3>
 
 <p>
-I'm a Software Engineer specialized in <b>Data Science</b>, passionate about
-data analysis, visualization, and machine learning.
+Turning Raw Data into Smart, Actionable Insights
 </p>
 
 <br>
@@ -24,7 +19,7 @@ data analysis, visualization, and machine learning.
 ## 🚀 About Me
 
 - 🎓 Data Science Student at **Menoufia National University**
-- 💻 Specialized in **Data Science**
+- 💻 Software Engineer specialized in **Data Science**
 - 🐍 Working mainly with **Python**
 - 📊 Interested in **Data Analysis & Data Visualization**
 - 🤖 Learning and building solutions using **Machine Learning**
