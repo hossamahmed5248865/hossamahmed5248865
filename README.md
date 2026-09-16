@@ -6,7 +6,7 @@
   ╲
 </h1>
 
-<h3>Data Scientist | Software Engineer</h3>
+<h3>Data Scientist </h3>
 
 </div>
 
