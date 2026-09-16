@@ -1,25 +1,12 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+<h1>
+  ╱
+  <b><i>I'm Hossam Ahmed</i></b>
+  ╲
+</h1>
 
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Data Science Workspace" width="40%"/>
-
-<br><br>
-
-<h1>Hi 👋, I'm Hossam Ahmed</h1>
-
-<h3>Data Scientist | Turning Data into Smart, Actionable Insights</h3>
-
-<p>
-I'm a Software Engineer specialized in <b>Data Science</b>, passionate about
-data analysis, visualization, and machine learning.
-</p>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hossamahmed5248865\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+<h3>Data Scientist | Software Engineer</h3>
 
 </div>
 
